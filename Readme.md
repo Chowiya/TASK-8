@@ -110,6 +110,8 @@ select * from customers;
 
 This is the output of the above sql code.
 
+![image alt](https://github.com/Chowiya/TASK-8/blob/2f82d18e7e44b1b659264d8a9f6dd570c3752b0f/Screenshot%202024-12-24%20114233.png)
+
 
 -- Sample data into orders table:
 
@@ -129,6 +131,8 @@ select * from orders;
 
 This is the output of the above sql code.
 
+![image alt](https://github.com/Chowiya/TASK-8/blob/2f82d18e7e44b1b659264d8a9f6dd570c3752b0f/Screenshot%202024-12-24%20114504.png)
+
 
 -- Sample data into products table:
 
@@ -145,8 +149,9 @@ values('Product A',30.00,'discription of product A'),
 select * from products;
 ```
 
-This is the output of the above sql code.
+This is the output of the above sql code:
 
+![image alt](https://github.com/Chowiya/TASK-8/blob/2f82d18e7e44b1b659264d8a9f6dd570c3752b0f/Screenshot%202024-12-24%20134255.png)
 
 # QUERIES:
 
